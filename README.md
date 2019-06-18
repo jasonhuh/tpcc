@@ -1,4 +1,4 @@
-# Intro
+# Intro \(Week1\)
 
 ## Warning: This is a DRAFT, a very, very early version of the Programming Competition guideline.
 

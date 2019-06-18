@@ -1,7 +1,3 @@
----
-description: Array
----
-
 # 1. Calculate Average of Array
 
 Print sum of items.

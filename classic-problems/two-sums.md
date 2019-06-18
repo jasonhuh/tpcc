@@ -1,7 +1,3 @@
----
-description: 'Learn dictionary, set and sorting'
----
-
 # Two Sums
 
 

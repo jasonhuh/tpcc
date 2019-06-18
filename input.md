@@ -1,7 +1,3 @@
----
-description: Practice accepting an input.
----
-
 # 2. What's your name?
 
 Accept a name as input, and print 'My name is \[your name\]'
