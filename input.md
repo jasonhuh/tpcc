@@ -79,3 +79,6 @@ int main()
 {% endtab %}
 {% endtabs %}
 
+\[Share your solution\]  
+\[Discuss\]
+
